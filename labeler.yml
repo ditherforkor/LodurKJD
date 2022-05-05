@@ -11,8 +11,6 @@ labels:
     titles:
       - "^ci:.*"
   - label: "Test"
-    titles:
-      - "^test:.*"
   - label: "skip-changelog"
     titles:
       - "^test:.*"
